@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1704677066 source:c:\users\muham\onedrive\documents\code blocks c\yapisalprogramlamaproje_21011075\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
